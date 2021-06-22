@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	logger.trace("Stable");
 	logger.debug("debug");
 	logger.info("info");
+	logger.info("This is it");
 	logger.error("error");
 	logger.warn("warning");
 
