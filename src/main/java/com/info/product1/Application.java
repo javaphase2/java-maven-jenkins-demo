@@ -7,6 +7,7 @@ public class Application {
 	static Logger logger = LoggerFactory.getLogger(Application.class);
 public static void main(String[] args) {
 	
+	logger.trace("Stable");
 	logger.debug("debug");
 	logger.info("info");
 	logger.error("error");
